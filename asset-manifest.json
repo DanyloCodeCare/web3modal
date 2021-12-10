@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/web3modal/static/js/main.3e551d0c.chunk.js",
+    "main.js.map": "/web3modal/static/js/main.3e551d0c.chunk.js.map",
+    "runtime-main.js": "/web3modal/static/js/runtime-main.86f3fb7f.js",
+    "runtime-main.js.map": "/web3modal/static/js/runtime-main.86f3fb7f.js.map",
+    "static/js/2.4cf83b29.chunk.js": "/web3modal/static/js/2.4cf83b29.chunk.js",
+    "static/js/2.4cf83b29.chunk.js.map": "/web3modal/static/js/2.4cf83b29.chunk.js.map",
+    "index.html": "/web3modal/index.html",
+    "static/js/2.4cf83b29.chunk.js.LICENSE.txt": "/web3modal/static/js/2.4cf83b29.chunk.js.LICENSE.txt",
+    "static/js/main.3e551d0c.chunk.js.LICENSE.txt": "/web3modal/static/js/main.3e551d0c.chunk.js.LICENSE.txt",
+    "static/media/erc20.6540b4f4.svg": "/web3modal/static/media/erc20.6540b4f4.svg",
+    "static/media/eth.40c2d264.svg": "/web3modal/static/media/eth.40c2d264.svg",
+    "static/media/web3modal-logo.d8a1141a.png": "/web3modal/static/media/web3modal-logo.d8a1141a.png",
+    "static/media/xdai.64224e1a.png": "/web3modal/static/media/xdai.64224e1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86f3fb7f.js",
+    "static/js/2.4cf83b29.chunk.js",
+    "static/js/main.3e551d0c.chunk.js"
+  ]
+}
